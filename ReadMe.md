@@ -1,5 +1,5 @@
 # Practice Practice Practice
 
-###Practicing some functions for CV with opencv. 
+### Practicing some functions for CV with opencv. 
 
 
